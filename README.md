@@ -1,55 +1,53 @@
-### profle_readme.md_Ilyas08
+<h1 align="center">Hey there 👋, I'm Ilyas Ettourach</h1>
+<h3 align="center">🚀 Backend Software Engineer | AI & Automation Enthusiast | ALX Graduate | Stonford data ocean Graduate</h3>
 
-# Hi there, I'm Ilyas Ettourach! 👋
+---
 
-Welcome to my GitHub profile! I'm a passionate Softwar enginner with a love for coding and continuous learning. Below you'll find more about me, my interests, and the projects I'm working on.
+### 🧠 About Me
+- 💻 Passionate about **Backend Development**, **APIs**, and **AI integration**.  
+- 🌱 Currently mastering **Django**, **Flask**, and **FastAPI** while exploring **Generative AI**.  
+- 🧩 Strong interest in **automation, cloud computing**, and **real-world problem solving**.  
+- 🎯 Goal: Build impactful AI-powered backend systems.  
+- ⚡ Fun fact: I love turning complex problems into simple, elegant code.
 
-## About Me
+---
 
-- 🔭 I’m currently working on [https://github.com/Ettourach/Alx_Webstack_Project]
-- 🌱 I’m currently learning [New Skills us "web scraping" with "python"]
-- 👯 I’m looking to collaborate on [Open Source Projects ]
-- 🤔 I’m looking for help with [web scraping challenge on "bright data"]
-- 💬 Ask me about [doing hards things and solving eny problems]
-- 📫 How to reach me: [ettourach@gmail.com]
-- 😄 Pronouns: [Ilyas]
-- ⚡ Fun fact: [I can solve a Rubik's cube in under a minute us a prompt enginner]
+### 🛠️ Tech Stack
+**Languages:** Python, JavaScript, SQL, Bash  
+**Frameworks:** Django, Flask, FastAPI, Node.js  
+**Databases:** PostgreSQL, MySQL, Redis, MongoDB  
+**Tools:** Git, Docker, Linux, Postman, VS Code  
+**Concepts:** RESTful APIs, OOP, Async Programming, Caching, i18n, web scraping 
 
-## Languages and Tools
+---
 
-Here are some of the languages and tools I work with:
+### 💼 Featured Projects
+- 🧠 **[Solana MemeCoin Trader (SMCT)](https://github.com/Ettourach/Solana-MemeCoin-Trader-SMCT)** – Automated trading bot for meme coins on the Solana blockchain  
+- 🔧 **[alx-backend](https://github.com/Ettourach/alx-backend)** – Advanced backend projects with Flask, i18n, and caching  
+- 🗃️ **[alx-backend-storage](https://github.com/Ettourach/alx-backend-storage)** – SQL, NoSQL, and Redis-based storage systems  
+- 🌐 **[Portfolio Website](https://ilyasehub.b12sites.com/)** – Personal portfolio showcasing my software engineering journey  
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
-## GitHub Stats
+### 🌍 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/ilyas-ettourach-8b2714146" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/IEttourach" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white" /></a>
+<a href="mailto:ettourach@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Ettourach" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+</p>
 
-![Ettourach's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ettourach&show_icons=true&theme=radical)
+---
 
-## Top Languages
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ettourach&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ettourach&theme=tokyonight" height="150" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ettourach&layout=compact&theme=radical)
+---
 
-## Recent Activity
+### 🧩 Motto
+> "Code with purpose, learn with passion, and build with impact."
 
-<!--START_SECTION:activity-->
-## Recent Activity
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/Ettourach/repo-name/pull/123) in [Ettourach/]Alx_Webstack_Project(https://github.com/Ettourach/Alx_Webstack_Project)
-2. 💬 Commented on [#456](https://github.com/Ettourach/repo-name/issues/456) in [Ettourach/repo-name](https://github.com/Ettourach/Alx_Webstack_Project)
-3. 🚀 Published release [v1.0.0](https://github.com/Ettourach/Alx_Webstack_Project/releases/tag/v1.0.0) in [Ettourach/](https://github.com/Ettourach/Alx_Webstack_Project)
-4. 🛠️ Currently building a mentorship application as my portfolio project at ALX
-<!--END_SECTION:activity-->
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/ilyas-ettourach-8b2714146)
-- [Twitter](https://twitter.com/IEttourach/)
-- [Personal Website](https://orcid.org/0009-0004-7291-3084)
-
-Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
